@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=n1">
+  <title>стили</title>
+  <!-- HTML -->
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <p>
+        <!-- <p> <a href="http://www.google.com">Google</a> -->
+        <!-- <a href="http://webref.ru/html">Справочник</a> -->
+        <!-- <a href="#header">Шапка</a> -->
+        <a href="/">корень</a>
+        <a href="element.html">элементы</a>
+        <a href="CSS.html">стили</a>
+        <a href="atribut.html">атрибуты</a>
+        <a href="practica.html">практика</a>
+        <a href="#home">home1</a>
+        <a href="#home1">home2</a>
+        <a href="#home2">home3</a>
+      </p>
+    </nav>
+    <!-- <em class="slogan">Работа не волк </em> -->
+    <!-- <img src="logo.png" alt="Логотип"  class="n4"> -->
+  </header>
+
+  <!-- <h3>Практика</h3> -->
+
+  <main>
+    <section id="home">
+      <p>HOME1
+      <p>
+    </section>
+
+    <section id="home1">
+      <p>HOME2</p>
+    </section>
+
+    <section id="home2">
+      <p>HOME3</p>
+      <ul>
+        <li>1 пункт</li>
+        <li>2 пункт</li>
+        <li>3 пункт</li>
+      </ul>
+      <ol reversed type="I" start="7">
+        <li>1 пункт</li>
+        <li value="22">2 пункт</li>
+        <li>3 пункт</li>
+      </ol>
+      <dl>
+        <dt>первый термин</dt>
+        <dd>описание</dd>
+        <dt>второй термин</dt>
+        <dd>описание</dd>
+      </dl>
+      <p>
+      <table border="1">
+        <caption>Таблица</caption>
+        <thead>
+          <tr>
+            <th colspan="3">ячейка11,12,13</th>
+            <!-- <th rowspan=""> ячейка12</th> -->
+            <!-- <th rowspan="">ячейка13</th> -->
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th rowspan="2"> ячейки21,31</th>
+            <td>ячейка22</td>
+            <td>ячейка23</td>
+          </tr>
+          <tr>
+            <!-- <td></td> -->
+            <td>ячейка32</td>
+            <td>ячейка33</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <th>ячейка41</th>
+            <td>ячейка42</td>
+            <td>ячейка43</td>
+          </tr>
+        </tfoot>
+      </table>
+      </p>
+
+      <form action="mailto:to.aleksandr.nik@gmail.com" method="post" enctype="text/plain/multipart/form-data">
+
+        <p><strong>Логин</strong>
+          <input maxlength="25" size="40" name="login">
+        </p>
+        <p><strong>Пароль</strong>
+          <input type="password" maxlength="25" size="40" name="password">
+        </p>
+        <p><input type="submit" value="Войти"></p>
+        <input type="reset">
+
+
+        <p>
+          <label> Текст </label>
+          <input type="text" name="text" placeholder="Введите текст">
+          <input type="submit">
+        </p>
+        <p>
+          <label> Введите ваш город </label>
+          <input name="city" list="var">
+        </p>
+        <p>
+          <label>
+            <input type="radio" name="status"> Включить
+          </label>
+          <label>
+            <input type="radio" name="status"> Выключить
+
+          </label>
+        </p>
+        <p>
+          <label>
+            <input type="checkbox"> Согласен
+          </label>
+        </p>
+        <p> <select>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+          </select>
+        </p>
+        <!-- <p> -->
+        <select multiple name="1" size="8">
+          <optgroup label="1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+          </optgroup>
+          <optgroup label="2">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+          </optgroup>
+        </select>
+        <!-- </p> -->
+
+        <p>Введите отзыв</p>
+        <textarea></textarea>
+        <p>
+          <input type="submit">
+        </p>
+
+        <p><button>Кнопка с текстом <img src="umbrella.gif" alt="" style="vertical-align:middle"></button></p>
+
+        <p><input type="file" name="f" multiple>
+          <input type="submit" value="Отправить" </p>
+
+      </form>
+
+      <datalist id="var">
+        <option>Киев</option>
+        <option>Днепр</option>
+        <option>Львов</option>
+      </datalist>
+
+
+      <p> <img src="FoeRWADWIAE78vd.jpg" draggable="true" title="Закат"> </p>
+    </section>
+  </main>
+
+  <!-- <footer> -->
+  <!-- <nav> -->
+  <!-- <p> -->
+  <!-- <p> <a href="http://www.google.com">Google</a> -->
+  <!-- <a href="http://webref.ru/html">Справочник</a> -->
+  <!-- <a href="#header">Шапка</a> -->
+  <!-- <a href="/">корень</a> -->
+  <!-- <a href="element.html">элементы</a> -->
+  <!-- <a href="CSS.html">стили</a> -->
+  <!-- <a href="atribut.html">атрибуты</a> -->
+  <!-- <a href="practica.html">практика</a> -->
+  <!-- <a href="element.html#header">шапка сайта</a> -->
+  <!-- </p> -->
+  <!-- </nav> -->
+  <!-- </footer>  -->
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+
+</html>
