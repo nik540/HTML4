@@ -42,23 +42,23 @@ nav a:not(:last-of-type) {
     margin-right: 1.5vw;
 }
 
-.slogan {
+/* .slogan { */
     /* color: #8090b5; */
     /* font-style: italic; */
     /* font-variant:unset; */
-    font-weight: 600;
-    font-size: 11pt;
+    /* font-weight: 600; */
+    /* font-size: 11pt; */
     /* display:block */
-    line-height: 1;
+    /* line-height: 1; */
     /* font-family:'Times New Roman', Times, serif; */
-}
+/* } */
 
 
 
-main {
-    line-height: 1.2;
-    font-family: 'Times New Roman', Times, serif;
-}
+/* main { */
+    /* line-height: 1.2; */
+    /* font-family: 'Times New Roman', Times, serif; */
+/* } */
 
 section {
     display: none;
