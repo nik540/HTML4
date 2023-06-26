@@ -177,8 +177,9 @@ h5 {
 .f_container {
     display: flex;
     /* justify-content: space-between; */
-    align-items: center;
-    padding-right: 10px;
+    /* align-items: center; */
+    padding-right: 4px;
+    padding-left: 4px;
     /* flex-wrap: wrap; */
 }
 
