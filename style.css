@@ -17,8 +17,12 @@ header {
     line-height: 0;
 }
 
+/* .g_container_nav{ */
+    /* display:inline-grid; */
+/* } */
+
 nav {
-    text-indent: 30pt;
+    /* text-indent: 30pt; */
 }
 
 nav a {
@@ -175,6 +179,7 @@ h5 {
     /* justify-content: space-between; */
     align-items: center;
     padding-right: 10px;
+    /* flex-wrap: wrap; */
 }
 
 .f1 {
