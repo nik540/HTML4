@@ -183,11 +183,15 @@ h5 {
 }
 
 .f1 {
-    /* padding-right: 30pt; */
+    padding-right: 20pt;
     /* width: 150pt; */
     /* flex-basis: 200px; */
     /* flex-grow: 1; */
     flex: 0 0 33%;
+}
+
+.f2 {
+
 }
 
 .g_container {
