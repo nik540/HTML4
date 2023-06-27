@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    display: flex;
-    flex-wrap: wrap;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
     /* position:relative; */
     background-color: #f5f6f8;
     border-color: #4a4a4a;
     border-style: double;
     border-width: 2pt;
-    line-height: 0;
+    /* line-height: 0; */
 }
 
 /* .g_container_nav{ */
@@ -185,7 +185,7 @@ h5 {
 
 .f1 {
     padding-right: 20pt;
-    
+
     /* width: 150pt; */
     /* flex-basis: 200px; */
     /* flex-grow: 1; */
