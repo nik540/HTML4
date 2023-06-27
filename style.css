@@ -6,16 +6,16 @@ body {
     margin: 0 auto;
 }
 
-header {
+/* header { */
     /* display: flex; */
     /* flex-wrap: wrap; */
     /* position:relative; */
-    background-color: #f5f6f8;
-    border-color: #4a4a4a;
-    border-style: double;
-    border-width: 2pt;
+    /* background-color: #f5f6f8; */
+    /* border-color: #4a4a4a; */
+    /* border-style: double; */
+    /* border-width: 2pt; */
     /* line-height: 0; */
-}
+/* } */
 
 /* .g_container_nav{ */
     /* display:inline-grid; */
