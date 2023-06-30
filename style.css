@@ -3,7 +3,7 @@ body {
     font-size: 13pt;
     font-family: "Times New Roman", Times, sans-serif;
     /* position: relative; */
-    margin: 0 auto;
+    margin: 0;
 }
 
 /* header { */
@@ -27,7 +27,7 @@ nav a {
     font-style: italic;
     /* font-variant:unset; */
     /* font-weight: 600; */
-    font-size: 14pt;
+    font-size: 15pt;
     /* line-height: 0; */
     /* font-family:'Times New Roman', Times, serif; */
     text-decoration: none;
@@ -180,6 +180,7 @@ h5 {
     /* align-items: center; */
     padding-right: 4px;
     padding-left: 4px;
+    /* align-items: center; */
     /* flex-wrap: wrap; */
     border-top: 1px solid #4a4a4a;
     border-left: 1px solid #4a4a4a;
@@ -188,27 +189,40 @@ h5 {
 
 .f1 {
     /* padding-right: 20pt; */
-
+    align-self: center;
     /* width: 150pt; */
     /* flex-basis: 200px; */
     /* flex-grow: 1; */
     flex: 0 0 33%;
     font-weight: 600;
+    color: #4a4a4a;
     /* color: #4a4a4a; */
     /* border: #4a4a4a; */
-    /* border: 2px solid #58a6e0; */
+    border-right: 1px solid #4a4a4a;
 }
 
 .f2 {
-    /* flex: 1 1 33%; */
-}
-
-.f3 {
     /* flex: 1 1 34% */
     /* font-style: italic; */
     font-weight: normal;
+    color: #58a6e0;
+    align-self: center;
+    /* font-style: italic; */
     /* color: #4a4a4a; */
 }
+
+.f3 {
+    /* flex-grow: 0; */
+    /* flex-shrink: 1; */
+    padding-left: 4px;
+}
+
+.s1 {
+    color: #000;
+    font-weight: 600;
+
+}
+
 
 .f_container_h2 {
     display: flex;
