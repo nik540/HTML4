@@ -1,0 +1,622 @@
+#EXTM3U
+#EXTINF:30,312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:0,312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:0,365 дней
+http://89.104.114.7:8080/365-dney/index.m3u8
+#EXTINF:0,43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:0,HD Медиа
+http://158.101.194.132:8080/channel/n4b3d76b8/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Абаза ТВ
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:0,Акуджи ФильмБокс
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/14161/index.m3u8
+#EXTINF:0,Амедиа 1 
+http://edge05.beetv.kz:80/btv/SWM/A1/A1.m3u8
+#EXTINF:0,Амедиа 2
+http://edge05.beetv.kz:80/btv/SWM/A2/A2.m3u8
+#EXTINF:0,Амедиа Премиум
+http://edge05.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:0,Амедиа Хит
+http://edge05.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+#EXTINF:0,Анекдот ТВ
+http://edge05.beetv.kz:80/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:0,Арсенал
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+#EXTINF:0,Базмос
+http://bigteisti6.cdn.lifeyosso.fun:56371/ATV_Bazmoc_HD/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_400k.m3u8
+#EXTINF:0,Блокбастер HD
+http://cdn-lb.iptv2022.com/p/QjQsAAZvyIlyqbRjS_yaRA,1688590812/streaming/blokbaster/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:0,Болливуд HD
+http://edge05.beetv.kz:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:0,Болт
+http://bigteisti10.cdn.lifeyosso.fun:32144/BOLT/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Большая азия 
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,Большая планета
+https://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:0,Бэкус ТВ
+https://stream.backustv.ru/live/btv/index.m3u8?
+#EXTINF:0,Бэкус ТВ Темный
+https://stream.backustv.ru/live/btv2/index.m3u8?
+#EXTINF:0,ВИП Семья
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:0,ВИП Хит
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Виасат Кино HD
+http://str06.ottg.tv/1975/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1134&req_host=pkjX3BL
+#EXTINF:0,Виасат Кино Актион HD
+http://str06.ottg.tv/3128/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1135&req_host=pkjX3BL
+#EXTINF:0,Виасат Кино Камеди HD
+http://str06.ottg.tv/9994/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1136&req_host=pkjX3BL
+#EXTINF:0,Виасат Кино Мегахит HD
+http://str06.ottg.tv/7147/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1137&req_host=pkjX3BL
+#EXTINF:0,Виасат Кино Мир HD
+http://str06.ottg.tv/9018/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=680&req_host=pkjX3BL
+#EXTINF:0,Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,Виджу+ Исследование
+http://edge05.beetv.kz:80/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
+#EXTINF:0,Виджу+ История
+http://edge05.beetv.kz:80/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+#EXTINF:0,Виджу+ Комедия
+http://edge05.beetv.kz:80/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+#EXTINF:0,Виджу+ Мегахит
+http://edge05.beetv.kz:80/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+#EXTINF:0,Виджу+ Планета
+http://bigteisti9.cdn.lifeyosso.fun:30455/VIASATNATUREHISTORY/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Виджу+ Премьера
+http://edge05.beetv.kz:80/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+#EXTINF:0,Виджу+ Природа
+http://edge05.beetv.kz:80/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
+#EXTINF:0,Виджу+ Сериал
+http://edge05.beetv.kz:80/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+#EXTINF:0,Военное кино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18072/index.m3u
+#EXTINF:0,Возьми ТВ
+http://46.18.107.105:8409/iptv/channel/1.m3u8
+#EXTINF:0,Возьми ТВ "VHS"
+http://46.18.107.105:8409/iptv/channel/2.m3u8
+#EXTINF:0,ВостокВест
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/14021/index.m3u
+#EXTINF:0,Время
+http://edge05.beetv.kz:80/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF:0,Всё ТВ
+https://cdn.wasd.tv/live/1378341/index.m3u8
+#EXTINF:0,Всё ТВ Фильм
+https://cdn.wasd.tv/live/1697889/index.m3u8
+#EXTINF:0,ВХС-ка
+http://str06.ottg.tv/7369/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1215&req_host=pkjX3BL
+#EXTINF:0,Выстрел ТВ
+http://31.184.194.43:8000/play/a00j
+#EXTINF:0,Глазами туриста
+http://edge05.beetv.kz/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista_HD_720p_3500kbps.m3u8
+#EXTINF:0,Голливуд HD
+http://edge05.beetv.kz:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:0,День Победы
+http://cdn-lb.iptv2022.com/p/kL8yDAVc384nCpBcyHDFQA,1686070924/streaming/den-pobedi/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:0,Детективджем HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/DETECTIVE_JAM/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Детское Кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18073/index.m3u
+#EXTINF:0,Доку ТВ
+https://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:0,Докубокс HD
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:0,Дом Кино
+http://edge05.beetv.kz:80/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:0,Домашний
+http://edge05.beetv.kz:80/btv/SWM/Domashniy_int/Domashniy_int.m3u8
+#EXTINF:0,Душевное HD
+http://bigteisti10.cdn.lifeyosso.fun:32144/DUSHEVNOE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Еврокино
+http://edge05.beetv.kz:80/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:0,Ералаш ТВ
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/11058/index.m3u8
+#EXTINF:0,Живая планета
+https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Зажигательный сериал
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11078/index.m3u8
+#EXTINF:0,Звезда
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:0,Звезда Плюс
+https://nl01.spr24.net/13087/mpegts?token=brm93nV8tUcCAN
+#EXTINF:0,Звездная семья
+http://77.240.45.106:3333/play/a0a8
+#EXTINF:0,Звездный кинотеатр
+http://77.240.45.106:3333/play/a0a9
+#EXTINF:0,Звязда HD
+http://bigteisti1.cdn.lifeyosso.fun:56373/zvyazda/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Земля
+http://edge05.beetv.kz/btv/SWM/terra_hd/terra_hd_720p_3500kbps.m3u8
+#EXTINF:0,Зоо ТВ
+http://bigteisti2.cdn.lifeyosso.fun:56374/em9vdHY/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Зоопарк
+http://edge05.beetv.kz:80/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
+#EXTINF:0,Иллюзион +
+http://edge05.beetv.kz:80/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+#EXTINF:0,Индийское кино
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:0,Индия
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Камеди HD
+http://cdn-lb.iptv2022.com/p/4GUNUSCcgF6TVKFPOqJx2w,1688590812/streaming/kamedi/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:0,Кино 1
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18069/index.m3u
+#EXTINF:0,Кино 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:0,Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Кино 2
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18070/index.m3u
+#EXTINF:0,Кино 24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0,Кино ТВ
+http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
+#EXTINF:0,Кинобоевик
+http://edge05.beetv.kz:80/btv/SWM/kinoboevik_hd/kinoboevik_hd.m3u8
+#EXTINF:0,Киновуд
+http://95.67.12.89:9090
+#EXTINF:0,Киноджем 1 HD
+http://bigteisti2.cdn.lifeyosso.fun:56374/KINOJAM1/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Киноджем 2 HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/KINOJAM2/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Кинозал VHS
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11059/index.m3u
+#EXTINF:0,Кинозал СССР
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11061/index.m3u8
+#EXTINF:0,Кинозал Хит
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11064/index.m3u
+#EXTINF:0,Кинокомедия
+http://91.197.104.34:8080/Kinokomedia/video.m3u8
+#EXTINF:0,Киноливинг
+http://cdn-lb.iptv2022.com/p/QjacDa0y1pHDtYq-sBWN1Q,1672950459/streaming/kinoliving/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:0,Киноман
+http://bigteisti6.cdn.lifeyosso.fun:56371/ATV_Kinoman_HD/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Киномикс
+http://91.197.104.34:8080/Kinomix/video.m3u8
+#EXTINF:0,Кинопоказ HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/kinopokaz/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Кинопремьера
+http://31.134.132.245:8080/premiera/index.m3u8
+#EXTINF:0,Киносат
+http://89.104.114.7:8080/kinosat/index.m3u8
+#EXTINF:0,Киносвидание
+http://bigteisti10.cdn.lifeyosso.fun:32144/KINOSVIDANIE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Киносезон
+http://bigteisti1.cdn.lifeyosso.fun:56373/kinosezon/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Киносемья
+http://bigteisti10.cdn.lifeyosso.fun:32144/KINOSEMYA/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Киносерия
+http://91.197.104.34:8080/Kinoseria/video.m3u8
+#EXTINF:0,Кинотеатр
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11087/index.m3u8
+#EXTINF:0,Киноужас
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:0,Кинохит
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кион хит
+http://bigteisti8.cdn.lifeyosso.fun:4399/kion_hit_hd/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Классика фильм
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8yZDljNDY2OS0yNmM3LTQwMmEtOTg2Yi03YjY4ZjgwODJkODQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+#EXTINF:0,Комедийное HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/komediinoe/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Контент моего детства
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/20001/index.m3u
+#EXTINF:0,Космо HD
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11065/index.m3u
+#EXTINF:0,Космос ТВ HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/cinemacosmos/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Красная линия ТВ
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/index.m3u8
+#EXTINF:0,Красный
+http://edge05.beetv.kz:80/btv/SWM/Red/Red.m3u8
+#EXTINF:0,Крик ТВ
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
+#EXTINF:0,Криминал HD
+https://nl01.spr24.net/20776/mpegts?token=brm93nV8tUcCAN
+#EXTINF:0,Криминальное HD
+http://bigteisti1.cdn.lifeyosso.fun:56373/kriminalnoe_hd/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Криминальный сериал
+http://34f4d057.shukinuki.website/iptv/5BNGHS7FCH7RVA/11092/index.m3u8
+#EXTINF:0,Кто куда
+http://bigteisti6.cdn.lifeyosso.fun:56371/ktokudA__mir_uvlecheniiy_/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Кухня ТВ
+http://bigteisti6.cdn.lifeyosso.fun:56371/kuhnya_tv/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Лучшие фильмы HD
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11050/index.m3u
+#EXTINF:0,Любимое Кино
+http://edge05.beetv.kz:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
+#EXTINF:0,Любимое ТВ
+http://bigteisti10.cdn.lifeyosso.fun:32144/LUBIMOE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Макромир HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/18194/index.m3u8
+#EXTINF:0,Мегамир HD
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/18195/index.m3u8
+#EXTINF:0,Медиа Сервис Лоренц ТВ
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:0,Мелодии и ритмы зарубежной эстрады
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/17057/index.m3u
+#EXTINF:0,Микромир HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/18193/index.m3u8
+#EXTINF:0,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мир Сериала
+http://edge05.beetv.kz:80/btv/SWM/mir_seriala/mir_seriala.m3u8
+#EXTINF:0,Мир вокруг
+https://stream-msk-07.ott.tricolor.tv:443/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MDc1MDg3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkwMTQ2MDc4LCJzZXNzaW9uX2lkIjoiM2U2MzQ4NzIzMjRlNzM5MDQ3MDdjODA3ZTBjMTNmODkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HuIz8mnu155jP_PKcHZcnxAb9NlT0KNVa6ULcldvxsk
+#EXTINF:0,Мировое Кино
+http://edge05.beetv.kz:80/btv/SWM/mirovoe_kino_hd/mirovoe_kino_hd.m3u8
+#EXTINF:0,Модерн Талкинг
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/14004/index.m3u
+#EXTINF:0,Москва Доверие
+http://95.217.196.109:8081/russia/moskva_dov_2023/chunks.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+http://edge05.beetv.kz:80/btv/SWM/mosfilm/mosfilm.m3u8
+#EXTINF:0,Моя Планета
+http://edge05.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
+#EXTINF:0,Моя стихия
+http://ott.watch/stream/KD8IR5FDPF/141.m3u8
+#EXTINF:0,Муви ТВ
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy85OTY2ZjI1ZS1iNTNhLTQ0NTAtOWZkNy1mYjE3MjVjNjRlNWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+#EXTINF:0,Мужское кино
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мультсказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,НСТ
+http://edge05.beetv.kz:80/btv/SWM/HCT/HCT.m3u8
+#EXTINF:0,НТВ HD
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:0,НТВ Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:0,НТВ Мир
+http://edge05.beetv.kz:80/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR_576p_2000kbps.m3u8
+#EXTINF:0,НТВ Право
+http://edge05.beetv.kz/btv/SWM/ntv_pravo/ntv_pravo_576p_2000kbps.m3u8
+#EXTINF:0,НТВ Сериал
+https://edge05.beetv.kz/btv/SWM/ntv_serial/ntv_serial_576p_2000kbps.m3u8
+#EXTINF:0,НТВ Стиль
+http://edge05.beetv.kz:80/btv/SWM/ntv_style/ntv_style_576p_2000kbps.m3u8
+#EXTINF:0,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Назад в 90-е
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11067/index.m3u
+#EXTINF:0,Назад в СССР
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/20175/index.m3u8
+#EXTINF:0,Настоящее время
+http://bigteisti1.cdn.lifeyosso.fun:56373/nast_vremya/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Нат Гео Ваилд HD
+http://edge05.beetv.kz:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:0,Наука
+https://nl01.spr24.net/20240/mpegts?token=brm93nV8tUcCAN
+#EXTINF:0,Научная фантастика
+http://edge05.beetv.kz:80/btv/SWM/Sci-Fi/Sci-Fi_384p_1000kbps.m3u8
+#EXTINF:0,Национальная география HD
+http://edge05.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
+#EXTINF:0,Наш кинопоказ HD
+http://cdn-lb.iptv2022.com/p/Yn92LcjPCNdUHDT4qXoPUA,1688590812/streaming/nashpokaz/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:0,Наша Тема
+http://31.134.132.245:8080/nasha_tema_hd/index.m3u8
+#EXTINF:0,Наше Крутое HD
+http://bigteisti1.cdn.lifeyosso.fun:56373/nashe/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:0,Наше новое кино
+http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
+#EXTINF:0,Небо2000 HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11054/index.m3u8
+#EXTINF:0,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Неизвестная планета
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9iMjk1ZjVmZC1iZmVlLTQ5ZmMtYWQ3MC03NjAyNDgxOWVkMDAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+#EXTINF:0,Новелла ТВ
+https://mhd116.iptv2022.com/p/bfHiUfV7B5iKOefa_5jy6g,1690405215/streaming/telenovella/324/1/index.m3u8
+#EXTINF:0,Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0,Ностальгия
+https://tbs01-edge11.itdc.ge/nostalgy/tracks-v1a1/mono.m3u8
+#EXTINF:0,О Кино
+http://109.200.135.130:8080/nashe/index.m3u8
+#EXTINF:0,ОТР
+http://89.104.114.7:8080/otr/index.m3u8
+#EXTINF:0,Общественное достояние
+http://cdn-lb.iptv2022.com/p/Ek-EklIlFazuwHdEQMAJ0w,1680791199/streaming/public_dom/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:0,Океан ТВ
+http://178.124.179.122:8088/Ocean/index.m3u8
+#EXTINF:0,Остросюжетное HD
+http://bigteisti10.cdn.lifeyosso.fun:32144/OSTROSUJETNOE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Открытия HD
+http://edge05.beetv.kz/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:0,Открытый мир
+https://nl01.spr24.net/20346/mpegts?token=brm93nV8tUcCAN
+#EXTINF:0,Память
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Первый канал
+http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:0,Первый космический
+http://edge05.beetv.kz/btv/SWM/1_kosmo_HD/1_kosmo_HD_720p_3500kbps.m3u8
+#EXTINF:0,Перец
+http://edge05.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
+#EXTINF:0,План B
+http://edge05.beetv.kz:80/btv/SWM/plan_b/plan_b.m3u8
+#EXTINF:0,Планета животных
+http://edge05.beetv.kz/btv/SWM/animal_hd/animal_hd_720p_3500kbps.m3u8
+#EXTINF:0,Победа
+http://edge05.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
+#EXTINF:0,Поехали!
+http://edge05.beetv.kz:80/btv/SWM/Poehali/Poehali.m3u8
+#EXTINF:0,Полет ТВ
+http://158.101.194.132:8080/channel/2c2fa58f/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Премиальное HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/PREMIALNOE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Премиум Кино
+http://edge05.beetv.kz:80/btv/SWM/premium_kino_hd/premium_kino_hd.m3u8
+#EXTINF:0,Премьера
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11094/index.m3u8
+#EXTINF:0,Приключения HD
+http://edge05.beetv.kz:80/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+#EXTINF:0,Прима ТВ
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1280x720@2704/playlist.m3u8
+#EXTINF:0,Про Любовь HD
+http://cdn-lb.iptv2022.com/p/lB-2b-yEOKysiXhf5yfoRA,1688590812/streaming/prolubov/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:0,Про жизнь
+http://46.180.252.106:9999/udp/239.255.42.241:1234
+#EXTINF:0,Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0,Промо
+https://iptvplay.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Пятница HD
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:0,Пятый Канал
+http://edge05.beetv.kz:80/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+#EXTINF:0,РТР Планета
+https://tbs01-edge11.itdc.ge/rtr/tracks-v1a1/mono.m3u8
+#EXTINF:0,РТР Россия
+http://edge05.beetv.kz:80/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+#EXTINF:0,Развлечение ТВ
+http://tvlist.site/stream/YQNFWMQ/channel/336.m3u8
+#EXTINF:0,Развлечение ТВ 2
+http://tvlist.site/stream/YQNFWMQ/channel/327.m3u8
+#EXTINF:0,Рен ТВ
+http://edge05.beetv.kz:80/btv/SWM/RenTV/RenTV.m3u8
+#EXTINF:0,Ретро HD
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/18177/index.m3u8
+#EXTINF:0,Ретро ТВ
+https://tbs01-edge11.itdc.ge/retro/tracks-v1a1/mono.m3u8
+#EXTINF:0,Родное кино
+http://bigteisti2.cdn.lifeyosso.fun:56374/rodnoe_kino/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Романтичное HD
+http://bigteisti10.cdn.lifeyosso.fun:32144/ROMANTIC/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Роскино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11013/index.m3u
+#EXTINF:0,Российская комедия
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11081/index.m3u8
+#EXTINF:0,Российские сериалы
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18043/index.m3u
+#EXTINF:0,Российское кино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/19299/index.m3u
+#EXTINF:0,Россия 1 HD
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
+#EXTINF:0,Россия-Культура
+http://edge05.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
+#EXTINF:0,Росфильм
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11041/index.m3u
+#EXTINF:0,Рукино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11096/index.m3u
+#EXTINF:0,Русериал
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11046/index.m3u8
+#EXTINF:0,Рускино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18049/index.m3u
+#EXTINF:0,Русская Комедия
+http://109.200.135.130:8080/comedy/index.m3u8
+#EXTINF:0,Русские Фильмы
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/14174/index.m3u8
+#EXTINF:0,Русский Иллюзион
+http://edge05.beetv.kz:80/btv/SWM/Russky-Illuzion_SWM/Russky-Illuzion_SWM.m3u8
+#EXTINF:0,Русский бестселлер
+http://bigteisti9.cdn.lifeyosso.fun:30455/rusbest/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Русский детектив
+http://bigteisti9.cdn.lifeyosso.fun:30455/rdet/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Русский роман
+http://bigteisti8.cdn.lifeyosso.fun:4399/RUSROMAN/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Русское кино
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18058/index.m3u
+#EXTINF:0,Русфильм
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18046/index.m3u
+#EXTINF:0,Руфильм
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/14217/index.
+#EXTINF:0,СД Рекс
+http://195.26.83.96:7029/play/a008
+#EXTINF:0,СССР
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/11102/index.m3u
+#EXTINF:0,СССР 2
+http://217.107.34.114:8006/playlist.m3u8
+#EXTINF:0,СССР 3
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/13005/index.m3u8
+#EXTINF:0,СССР Детектив HD
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/13096/index.m3u8
+#EXTINF:0,СТАРТ Айр HD
+http://edge05.beetv.kz:80/btv/SWM/start_air_hd/start_air_hd.m3u8
+#EXTINF:0,СТАРТ Мир HD
+http://edge05.beetv.kz:80/btv/SWM/start_world_hd/start_world_hd.m3u8
+#EXTINF:0,СТВ HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:0,СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+#EXTINF:0,СТС HD
+http://158.101.194.132:8080/channel/n484dfe88/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,СТС International
+http://edge05.beetv.kz:80/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:0,СТС Love
+http://158.101.194.132:8080/channel/n34ecaac6/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Сарафан
+https://tbs01-edge11.itdc.ge/sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:0,Свое ТВ
+http://svoetv.mediacdn.ru/cdn/svoetv/playlist_sdmid.m3u8
+#EXTINF:0,Север
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:0,Север ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:0,Сериал HD
+http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/11101/index.m3u8
+#EXTINF:0,Сериал ТВ
+http://158.101.194.132:8080/channel/n15808039/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Сиеста HD
+http://tvlist.site/stream/YQNFWMQ/channel/1298.m3u8
+#EXTINF:0,Синема
+http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA_384p_1000kbps.m3u8
+#EXTINF:0,Синема Классика
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:0,Скиф ТВ
+http://bigteisti1.cdn.lifeyosso.fun:56373/SKIF_HD/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Следствие вели
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/18133/index.m3u8
+#EXTINF:0,Смотрим ТВ
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Смотрим ТВ 2
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Совершенно секретно
+https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
+#EXTINF:0,Советские Мультфильмы
+http://158.101.194.132:8080/channel/n11fc9032/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Советское кино
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Солнце
+https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
+#EXTINF:0,Союзфильм
+http://uyzhpb4j.akciatv.ru/iptv/ZCUHVK5C5P9HK7/18167/index.m3u
+#EXTINF:0,Страх HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11069/index.m3u8
+#EXTINF:0,Страшное HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/STRASHNOE/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Суббота
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Т+
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:0,Т24
+http://edge05.beetv.kz:80/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF:0,ТВ 21 век
+http://edge05.beetv.kz:80/btv/SWM/tv21/tv21.m3u8
+#EXTINF:0,ТВ Брикс
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:0,ТВ Рус
+http://77.240.45.106:3333/play/a06e
+#EXTINF:0,ТВ Фильм
+http://158.101.194.132:8080/channel/a2b048c/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,ТВ Экстра
+http://91.233.215.250:7272/IurtgdVgs6Tfa8J
+#EXTINF:0,ТВ1
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:0,ТВ1000
+http://edge05.beetv.kz:80/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF:0,ТВ1000 Актион
+http://edge05.beetv.kz:80/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF:0,ТВ1000 Русское
+http://edge05.beetv.kz:80/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
+#EXTINF:0,ТВ3 HD
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:0,ТВ3 International
+http://edge05.beetv.kz:80/btv/SWM/TB_3_International/TB_3_International.m3u8
+#EXTINF:0,ТВМ Канал
+http://origin5.mediacdn.ru/live/tvm/index.m3u8
+#EXTINF:0,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,ТВЦ International
+http://edge05.beetv.kz:80/btv/SWM/TVCentr/TVCentr.m3u8
+#EXTINF:0,ТВЦ+ТВ
+http://178.124.179.122:8088/PlusTV/index.m3u8
+#EXTINF:0,ТНТ HD
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,ТНТ International
+http://edge05.beetv.kz:80/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
+#EXTINF:0,ТНТ4
+http://edge05.beetv.kz:80/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:0,ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:0,Таврия ТВ
+https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:0,Тайна ТВ
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
+#EXTINF:0,Тайны галактики HD
+http://edge05.beetv.kz:80/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+#EXTINF:0,Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0,Телекафе
+http://edge05.beetv.kz:80/btv/icon/Telecafe/Telecafe.m3u8
+#EXTINF:0,Телепутешествие
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MDc1MDg3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkwMTQ2MDc4LCJzZXNzaW9uX2lkIjoiM2U2MzQ4NzIzMjRlNzM5MDQ3MDdjODA3ZTBjMTNmODkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HuIz8mnu155jP_PKcHZcnxAb9NlT0KNVa6ULcldvxsk
+#EXTINF:0,Тео ТВ
+https://stream.teotv.ru/live/site360/chunklist.m3u8
+#EXTINF:0,Тивиком
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:0,Топ 80-е HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/13002/index.m3u8
+#EXTINF:0,Треш
+https://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:0,Ужастик
+https://iptvplay.catcast.tv/content/38896/index.m3u8
+#EXTINF:0,Ужастик ТВ
+http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Фамиледжем HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/FAMILY_JAM/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Фантастика
+https://iptvplay.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Фантастика HD
+http://34f4d057.shukinuki.website/iptv/BUAUMHNSNNUTH6/11070/index.m3u8
+#EXTINF:0,Феникс Плюс Кино
+http://edge05.beetv.kz:80/btv/SWM/phoenix/phoenix.m3u8
+#EXTINF:0,Фильзона
+http://91.233.215.250:7272/ko7BKj9NV0ZCX2C
+#EXTINF:0,Фильм ТВ
+http://158.101.194.132:8080/channel/d2c5c70/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Фильм драма
+http://edge05.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:0,ФильмБокс
+https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:0,ФильмБокс Артхаус
+https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
+#EXTINF:0,Фликс Снип
+http://bigteisti1.cdn.lifeyosso.fun:56373/flixsnip_hd/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Фокс HD
+https://edge05.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+#EXTINF:0,Фокс Лайф HD
+http://edge05.beetv.kz/btv/SWM/FoxLife/FoxLife_270p_1200kbps.m3u8
+#EXTINF:0,ХДЛ
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+#EXTINF:0,Хит HD
+http://cdn-lb.iptv2022.com/p/X3gvqpU9Mh6B6Fe0Jqf--w,1688590812/streaming/hit/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:0,Централ комедия
+http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+#EXTINF:0,Центральное телевидение
+http://edge05.beetv.kz:80/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
+#EXTINF:0,Че
+http://158.101.194.132:8080/channel/47fd7c96/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Чевер Драма HD
+http://str06.ottg.tv/4099/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1216&req_host=pkjX3BL
+#EXTINF:0,Чевер Кино HD
+http://str06.ottg.tv/9481/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1112&req_host=pkjX3BL
+#EXTINF:0,Чевер Музик HD
+http://str06.ottg.tv/9047/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=622&req_host=pkjX3BL
+#EXTINF:0,Чевер Теарт HD
+http://str06.ottg.tv/2875/mpegts?username=nadiya21&password=7WRYIH36SZ&token=1ff13d453e765f323f20c170fbb24947&ch_id=1217&req_host=pkjX3BL
+#EXTINF:0,Чёрный
+http://edge05.beetv.kz:80/btv/SWM/Black/Black.m3u8
+#EXTINF:0,Шансон ТВ
+http://edge05.beetv.kz:80/btv/SWM/Shanson_TV/Shanson_TV.m3u8
+#EXTINF:0,Шокирующее HD
+http://bigteisti9.cdn.lifeyosso.fun:30455/shok/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+#EXTINF:0,Эпик драма
+rtmp://93.189.60.202//1048
+#EXTINF:0,Юнион ТВ
+http://ott.inmart.tv:8081/35/index.m3u8
