@@ -244,6 +244,7 @@ span {
 }
 
 .grid_item_2 {
+    padding-left: 4px;
     display: grid;
     border-right: 1px solid #4a4a4a;
     /* justify-items: start; */
@@ -253,24 +254,24 @@ span {
 }
 
 .grid_item_3 {
+    padding-left: 4px;
     display: grid;
     border-right: 1px solid #4a4a4a;
 
 }
 
 .grid_item_4 {
+    padding-left: 4px;
     display: grid;
     border-right: 1px solid #4a4a4a;
 }
 
 .item_1 {
-    font-weight: 600;
-    color: #4a4a4a;
+    /* font-weight: 600; */
+    /* color: #4a4a4a; */
     text-decoration: none;
-    padding-left: 4px;
-    font-style: italic;
-    padding: 2px 0 0 4px;
-
+    /* font-style: italic; */
+    /* padding: 2px 0 0 2px; */
 }
 
 .content_1 {
@@ -292,7 +293,7 @@ span {
 
 .content_4 {
     text-decoration: none;
-    padding: 2px;
+    /* padding: 2px; */
     color: #4a4a4a;
     font-weight: 600;
     /* font-style: italic; */
@@ -314,6 +315,8 @@ span {
     /* color: #CE9178 */
 }
 
+/*  выделение частей */
+
 /* .content_7 {
     user-select: all;
 } */
@@ -333,4 +336,49 @@ span {
     opacity: 0;
 } */
 
+.content_9 {
+    /* font-style: italic; */
+    font-weight: 600;
+    color: #4a4a4a;
+    /* background-color: #b9aeae; */
+}
 
+.content_10 {
+    font-weight: 600;
+    color: #4a4a4a;
+    font-style: italic;
+    /* background-color:aliceblue; */
+}
+
+[data-tooltip]::after {
+    content: attr(data-tooltip);
+    /* Выводим текст */
+    position: absolute;
+    /* Абсолютное позиционирование */
+    width: 500px;
+    /* Ширина подсказки */
+    left: 0;
+    top: 0;
+    /* Положение подсказки */
+    background: #fff;
+    /* Синий цвет фона */
+    color: #3989c9;
+    /* Цвет текста */
+    padding: 0.5em;
+    /* Поля вокруг текста */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    /* Параметры тени */
+    pointer-events: none;
+    /* Подсказка */
+    opacity: 0;
+    /* Подсказка невидима */
+    transition: 1s;
+    /* Время появления подсказки */
+}
+
+[data-tooltip]:hover::after {
+    opacity: 1;
+    /* Показываем подсказку */
+    top: 2em;
+    /* Положение подсказки */
+}
