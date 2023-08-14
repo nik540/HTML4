@@ -208,7 +208,7 @@ span {
     display: grid;
     grid-template-columns: 1fr 3fr;
     /* gap: 100px; */
-    border: 1px solid 4a4a4a;
+    border: 1px solid rgba(74, 74, 74, 1);
     margin: 0 2px -1px 2px;
     /* align-items: center; */
 }
@@ -216,7 +216,7 @@ span {
 .grid_1 {
     display: grid;
     padding: 4px;
-    border-right: 1px solid #4a4a4a;
+    border-right: 1px solid rgba(74, 74, 74, 1);
     /* background-color: #b9aeae; */
     /* gap: 50px; */
     /* grid-template-rows: 1fr 1fr ; */
@@ -256,14 +256,14 @@ span {
 .grid_item_3 {
     padding-left: 4px;
     display: grid;
-    border-right: 1px solid #4a4a4a;
+    border-right: 1px solid rgba(74, 74, 74, 1);
 
 }
 
 .grid_item_4 {
     padding-left: 4px;
     display: grid;
-    border-right: 1px solid #4a4a4a;
+    border-right: 1px solid rgba(74, 74, 74, 1);
 }
 
 .item_1 {
@@ -360,13 +360,13 @@ span {
     left: 0;
     top: 0;
     /* Положение подсказки */
-    background: #fff;
-    /* Синий цвет фона */
+    background: rgba(255, 255, 0, 0);
+    /*цвет фона */
     color: #3989c9;
     /* Цвет текста */
     padding: 0.5em;
     /* Поля вокруг текста */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); */
     /* Параметры тени */
     pointer-events: none;
     /* Подсказка */
@@ -376,7 +376,85 @@ span {
     /* Время появления подсказки */
 }
 
-[data-tooltip]:hover::after {
+  [data-tooltip]:hover::after {
+    opacity: 1;
+    /* Показываем подсказку */
+    top: 2em;
+    /* Положение подсказки */
+}
+
+.grid_modal {
+ display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.item_modal {
+    text-decoration: none;
+}
+
+
+[data-tooltip1]::after {
+    content: attr(data-tooltip1);
+    /* Выводим текст */
+    /* display: flex; */
+    position: fixed;
+    /* Абсолютное позиционирование */
+    width: 200px;
+    /* Ширина подсказки */
+    left: 40px;
+    top: 100px;
+    /* Положение подсказки */
+    background: rgba(255, 255, 0, 0);
+    /* Синий цвет фона */
+    color: #3989c9;
+    /* Цвет текста */
+    padding: 0.5em;
+    /* Поля вокруг текста */
+    /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); */
+    /* Параметры тени */
+    pointer-events: none;
+    /* Подсказка */
+    opacity: 0;
+    /* Подсказка невидима */
+    transition: 1s;
+    /* Время появления подсказки */
+    /* z-index: 1; */
+}
+
+[data-tooltip1]:hover::after {
+    opacity: 1;
+    /* Показываем подсказку */
+    top: 2em;
+    /* Положение подсказки */
+}
+[data-tooltip2]::after {
+    content: attr(data-tooltip2);
+    /* Выводим текст */
+    position: fixed;
+    /* Абсолютное позиционирование */
+    width: 100px;
+    /* Ширина подсказки */
+    left: 200px;
+    top: 0;
+    /* Положение подсказки */
+    background: rgba(255, 255, 0, 0);
+    /* Синий цвет фона */
+    color: #3989c9;
+    /* Цвет текста */
+    padding: 0.5em;
+    /* Поля вокруг текста */
+    /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); */
+    /* Параметры тени */
+    pointer-events: none;
+    /* Подсказка */
+    opacity: 0;
+    /* Подсказка невидима */
+    transition: 1s;
+    /* Время появления подсказки */
+    /* z-index: 3; */
+}
+
+[data-tooltip2]:hover::after {
     opacity: 1;
     /* Показываем подсказку */
     top: 2em;
