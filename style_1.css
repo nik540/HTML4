@@ -3,6 +3,17 @@ body {
 	font-size: 13pt;
 	font-family: "Times New Roman", Times, sans-serif;
 	margin: 0;
+	hyphens: none;
+	display: grid;
+	/* row-gap: 20px; */
+	min-height: 100vh;
+	grid-template-rows: auto 1fr auto;
+	grid-template-areas: "header" "main" "footer";
+	/* grid-template:
+	"header header" auto
+	 "aside main"  1fr
+	 "footer footer" auto /
+	 100px 1fr ; */
 }
 
 .main {
