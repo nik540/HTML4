@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <script src="main.js"></script>
+<script type="text/javascript" src="jquery.min.js"></script>
+<!-- <script str="http:/ajax.googleapic.com/ajax/libs/jquery/3.7.1/jquery.main.js"></script> -->
 
 <head>
    <meta charset="UTF-8">
@@ -27,12 +30,18 @@
             <a href="practica.html">практика</a>
             <a href="flexbox.html">flexbox</a>
             <a href="grid.html">grid</a>
-            <a href="item.html">item</a>
+            <a href="layout.html">layout</a>
+            <a href="shablon.html">shablon</a>
+
          </p>
       </nav>
+
    </header>
 
+   <!-- <aside class="aside">ASIDE</aside> -->
+
    <main class="main">
+
 
       <!-- .........................layout.................................... -->
 
@@ -530,7 +539,18 @@
 
             <div class="grid_columns_item">
 
-               <span class="grid_columns_item_content"> grid-template:</span>
+               <span class="grid_columns_item_content">display:</span>
+               <span class="grid_columns_item_content_1">grid;</span>
+               <span class="grid_columns_item_content_1">inline-grid;</span>
+               <span class="grid_columns_item_content_1">subgrid;</span>
+
+            </div>
+
+            <div class="grid_columns_item">
+
+               <div class="grid_columns_item_content">grid (-row) (-column)<br> -template:</div>
+               <div class="grid_columns_item_content">grid-auto-columns:</div>
+               <span class="grid_columns_item_content">grid-auto-rows:</span>
                <span class="grid_columns_item_content_1">%;</span>
                <span class="grid_columns_item_content_1">fr;</span>
                <span class="grid_columns_item_content_1">minmax;</span>
@@ -539,6 +559,15 @@
                <span class="grid_columns_item_content_1">repeat+auto-fill+minmax;</span>
                <span class="grid_columns_item_content_1"> repeat+auto-fit+minmax;</span>
                <span class="grid_columns_item_content_1">areas;</span>
+
+            </div>
+
+            <div class="grid_columns_item">
+
+               <span class="grid_columns_item_content">grid-auto-flow: </span>
+               <span class="grid_columns_item_content_1">row;</span>
+               <span class="grid_columns_item_content_1">column;</span>
+               <span class="grid_columns_item_content_1">dense;</span>
 
             </div>
 
@@ -590,12 +619,12 @@
 
          </div>
 
-         <div class="grid_columns" >
+         <div class="grid_columns">
 
             <div class="grid_columns_item">
 
-               <div class="grid_columns_item_content">grid-column:</div>
-               <span class="grid_columns_item_content">grid-row:</span>
+               <div class="grid_columns_item_content">grid-column: (-start:) (-end:)</div>
+               <span class="grid_columns_item_content">grid-row: (-start:) (-end:)</span>
                <span class="grid_columns_item_content_1">1/2;</span>
                <span class="grid_columns_item_content_1">1/span 1;</span>
                <span class="grid_columns_item_content_1">1;</span>
@@ -637,19 +666,49 @@
                <span class="grid_columns_item_content_1">aside;</span>
                <span class="grid_columns_item_content_1">main;</span>
                <span class="grid_columns_item_content_1">footer;</span><br>
+               <span class="grid_columns_item_content_1">(1/1/4/2;)</span>
+
 
             </div>
 
             <div class="grid_columns_item">
 
+               <span class="grid_columns_item_content">grid-template-areas:</span>
+               <span class="grid_columns_item_content_1">"header" "main" "footer";</span>
+               <div class="grid_columns_item_content_1">
+                  ("hd hd hd hd hd hd"<br>
+                  "sd sd sd main main main"<br>
+                  "ft ft ft ft ft ft";)</div>
+
+
+            </div>
+
+            <div class="grid_columns_item">
+
+               <span class="grid_columns_item_content">grid-template:</span><br>
+               <div class="grid_columns_item_content_1">"header header" auto<br>
+                  "aside main" 1fr <br> "footer ." auto <br>
+                  / 1fr 1fr ;</div>
+
+            </div>
+
+            <div class="grid_columns_item">
+
+               <pre id="foo" class="pre grid_columns_item_content" contenteditable="true"
+                  placeholder="content ... :"></pre>
+
+               <pre id="foo" class="pre grid_columns_item_content_1_1" contenteditable
+                  placeholder="content ... ;"></pre>
+
+            </div>
 
          </div>
 
       </div>
 
-      </div>
-
    </main>
+
+
 
    <footer class="footer">
 
@@ -663,9 +722,12 @@
             <a href="practica.html">практика</a>
             <a href="flexbox.html">flexbox</a>
             <a href="grid.html">grid</a>
-            <a href="item.html">item</a>
+            <a href="layout.html">layout</a>
+            <a href="shablon.html">shablon</a>
+
          </p>
       </nav>
+
    </footer>
 
 </body>
